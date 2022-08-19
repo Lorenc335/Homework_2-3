@@ -1,2 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+Console.Write("введите координату Х для первой точки :");
+int x1 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Еще введи цифирку ");
+int y1 = Convert.ToInt32(Console.ReadLine());
+Console.Write("И последнюю, тут  ");
+int z1 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите координату Х для второй точки:");
+int x2 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введи цифирку для Y");
+int y2 = Convert.ToInt32(Console.ReadLine());
+Console.Write("И последнюю, для Z  ");
+int z2 = Convert.ToInt32(Console.ReadLine());
+int d = ((x2 - x1) + (y2 - y1) + (z2 - z1))*2;
+Console.WriteLine(Math.Sqrt(d));
