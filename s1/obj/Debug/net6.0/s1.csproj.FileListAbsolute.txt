@@ -1,0 +1,15 @@
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\s1\bin\Debug\net6.0\s1.exe
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\s1\bin\Debug\net6.0\s1.deps.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\s1\bin\Debug\net6.0\s1.runtimeconfig.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\s1\bin\Debug\net6.0\s1.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\s1\bin\Debug\net6.0\s1.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\s1\obj\Debug\net6.0\s1.csproj.AssemblyReference.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\s1\obj\Debug\net6.0\s1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\s1\obj\Debug\net6.0\s1.AssemblyInfoInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\s1\obj\Debug\net6.0\s1.AssemblyInfo.cs
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\s1\obj\Debug\net6.0\s1.csproj.CoreCompileInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\s1\obj\Debug\net6.0\s1.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\s1\obj\Debug\net6.0\refint\s1.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\s1\obj\Debug\net6.0\s1.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\s1\obj\Debug\net6.0\s1.genruntimeconfig.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\s1\obj\Debug\net6.0\ref\s1.dll
