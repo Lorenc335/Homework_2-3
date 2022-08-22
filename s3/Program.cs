@@ -12,7 +12,7 @@ class Programm
         int[] array = new int[n];
         for (int i = 0; i < array.Length; i++)
         {
-            array[i] = i + 1;
+            array[i] = new Random().Next(0, 100);
         }
         return array;
     }
