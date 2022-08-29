@@ -1,10 +1,14 @@
-﻿static int[] CreateArray(int n)
+﻿static int[] CreateArray()
 {
+    int n = new Random().Next(2, 10);
     int[] array = new int[n];
     for (int i = 0; i < array.Length; i++)
     {
         array[i] = new Random().Next(100, 999);
+        Console.Write(array[i]);
+        Console.Write(' ');
     }
+    Console.WriteLine(" ");
     return array;
 }
 
@@ -15,11 +19,9 @@ static int chetnoe(int[] array)
     {
         if (array[i] % 2 == 0) k ++;
     }
+    Console.Write("Четных: ");
     return k;
 }
-Console.Write("Введите число аргументов массива : ");
-int n = Convert.ToInt32(Console.ReadLine());
-Console.Write("Массив : ");
-Console.WriteLine(CreateArray(n));
-Console.Write("Массив содержит четных аргументов - ");
-Console.WriteLine(chetnoe(CreateArray(n)));
+
+Console.Write("Массив: ");
+Console.WriteLine(chetnoe(CreateArray()));
