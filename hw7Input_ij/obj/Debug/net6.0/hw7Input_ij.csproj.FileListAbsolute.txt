@@ -1,0 +1,15 @@
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7Input_ij\obj\Debug\net6.0\hw7Input_ij.csproj.AssemblyReference.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7Input_ij\obj\Debug\net6.0\hw7Input_ij.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7Input_ij\obj\Debug\net6.0\hw7Input_ij.AssemblyInfoInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7Input_ij\obj\Debug\net6.0\hw7Input_ij.AssemblyInfo.cs
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7Input_ij\obj\Debug\net6.0\hw7Input_ij.csproj.CoreCompileInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7Input_ij\bin\Debug\net6.0\hw7Input_ij.exe
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7Input_ij\bin\Debug\net6.0\hw7Input_ij.deps.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7Input_ij\bin\Debug\net6.0\hw7Input_ij.runtimeconfig.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7Input_ij\bin\Debug\net6.0\hw7Input_ij.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7Input_ij\bin\Debug\net6.0\hw7Input_ij.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7Input_ij\obj\Debug\net6.0\hw7Input_ij.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7Input_ij\obj\Debug\net6.0\refint\hw7Input_ij.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7Input_ij\obj\Debug\net6.0\hw7Input_ij.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7Input_ij\obj\Debug\net6.0\hw7Input_ij.genruntimeconfig.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7Input_ij\obj\Debug\net6.0\ref\hw7Input_ij.dll

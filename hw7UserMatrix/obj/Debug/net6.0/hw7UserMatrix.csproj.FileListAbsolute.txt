@@ -1,0 +1,15 @@
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7UserMatrix\obj\Debug\net6.0\hw7UserMatrix.csproj.AssemblyReference.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7UserMatrix\obj\Debug\net6.0\hw7UserMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7UserMatrix\obj\Debug\net6.0\hw7UserMatrix.AssemblyInfoInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7UserMatrix\obj\Debug\net6.0\hw7UserMatrix.AssemblyInfo.cs
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7UserMatrix\obj\Debug\net6.0\hw7UserMatrix.csproj.CoreCompileInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7UserMatrix\bin\Debug\net6.0\hw7UserMatrix.exe
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7UserMatrix\bin\Debug\net6.0\hw7UserMatrix.deps.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7UserMatrix\bin\Debug\net6.0\hw7UserMatrix.runtimeconfig.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7UserMatrix\bin\Debug\net6.0\hw7UserMatrix.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7UserMatrix\bin\Debug\net6.0\hw7UserMatrix.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7UserMatrix\obj\Debug\net6.0\hw7UserMatrix.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7UserMatrix\obj\Debug\net6.0\refint\hw7UserMatrix.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7UserMatrix\obj\Debug\net6.0\hw7UserMatrix.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7UserMatrix\obj\Debug\net6.0\hw7UserMatrix.genruntimeconfig.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7UserMatrix\obj\Debug\net6.0\ref\hw7UserMatrix.dll
