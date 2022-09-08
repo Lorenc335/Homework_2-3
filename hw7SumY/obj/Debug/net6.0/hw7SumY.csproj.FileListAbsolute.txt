@@ -1,0 +1,15 @@
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7SumY\obj\Debug\net6.0\hw7SumY.csproj.AssemblyReference.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7SumY\obj\Debug\net6.0\hw7SumY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7SumY\obj\Debug\net6.0\hw7SumY.AssemblyInfoInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7SumY\obj\Debug\net6.0\hw7SumY.AssemblyInfo.cs
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7SumY\obj\Debug\net6.0\hw7SumY.csproj.CoreCompileInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7SumY\bin\Debug\net6.0\hw7SumY.exe
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7SumY\bin\Debug\net6.0\hw7SumY.deps.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7SumY\bin\Debug\net6.0\hw7SumY.runtimeconfig.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7SumY\bin\Debug\net6.0\hw7SumY.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7SumY\bin\Debug\net6.0\hw7SumY.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7SumY\obj\Debug\net6.0\hw7SumY.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7SumY\obj\Debug\net6.0\refint\hw7SumY.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7SumY\obj\Debug\net6.0\hw7SumY.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7SumY\obj\Debug\net6.0\hw7SumY.genruntimeconfig.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw7SumY\obj\Debug\net6.0\ref\hw7SumY.dll
