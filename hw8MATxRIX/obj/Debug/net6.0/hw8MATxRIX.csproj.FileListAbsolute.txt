@@ -1,0 +1,15 @@
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MATxRIX\obj\Debug\net6.0\hw8MATxRIX.csproj.AssemblyReference.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MATxRIX\obj\Debug\net6.0\hw8MATxRIX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MATxRIX\obj\Debug\net6.0\hw8MATxRIX.AssemblyInfoInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MATxRIX\obj\Debug\net6.0\hw8MATxRIX.AssemblyInfo.cs
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MATxRIX\obj\Debug\net6.0\hw8MATxRIX.csproj.CoreCompileInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MATxRIX\bin\Debug\net6.0\hw8MATxRIX.exe
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MATxRIX\bin\Debug\net6.0\hw8MATxRIX.deps.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MATxRIX\bin\Debug\net6.0\hw8MATxRIX.runtimeconfig.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MATxRIX\bin\Debug\net6.0\hw8MATxRIX.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MATxRIX\bin\Debug\net6.0\hw8MATxRIX.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MATxRIX\obj\Debug\net6.0\hw8MATxRIX.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MATxRIX\obj\Debug\net6.0\refint\hw8MATxRIX.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MATxRIX\obj\Debug\net6.0\hw8MATxRIX.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MATxRIX\obj\Debug\net6.0\hw8MATxRIX.genruntimeconfig.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MATxRIX\obj\Debug\net6.0\ref\hw8MATxRIX.dll

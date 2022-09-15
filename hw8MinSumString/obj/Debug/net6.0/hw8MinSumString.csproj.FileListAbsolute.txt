@@ -1,0 +1,15 @@
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MinSumString\bin\Debug\net6.0\hw8MinSumString.exe
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MinSumString\bin\Debug\net6.0\hw8MinSumString.deps.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MinSumString\bin\Debug\net6.0\hw8MinSumString.runtimeconfig.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MinSumString\bin\Debug\net6.0\hw8MinSumString.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MinSumString\bin\Debug\net6.0\hw8MinSumString.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MinSumString\obj\Debug\net6.0\hw8MinSumString.csproj.AssemblyReference.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MinSumString\obj\Debug\net6.0\hw8MinSumString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MinSumString\obj\Debug\net6.0\hw8MinSumString.AssemblyInfoInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MinSumString\obj\Debug\net6.0\hw8MinSumString.AssemblyInfo.cs
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MinSumString\obj\Debug\net6.0\hw8MinSumString.csproj.CoreCompileInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MinSumString\obj\Debug\net6.0\hw8MinSumString.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MinSumString\obj\Debug\net6.0\refint\hw8MinSumString.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MinSumString\obj\Debug\net6.0\hw8MinSumString.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MinSumString\obj\Debug\net6.0\hw8MinSumString.genruntimeconfig.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8MinSumString\obj\Debug\net6.0\ref\hw8MinSumString.dll

@@ -1,0 +1,15 @@
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8Sort\bin\Debug\net6.0\hw8Sort.exe
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8Sort\bin\Debug\net6.0\hw8Sort.deps.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8Sort\bin\Debug\net6.0\hw8Sort.runtimeconfig.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8Sort\bin\Debug\net6.0\hw8Sort.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8Sort\bin\Debug\net6.0\hw8Sort.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8Sort\obj\Debug\net6.0\hw8Sort.csproj.AssemblyReference.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8Sort\obj\Debug\net6.0\hw8Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8Sort\obj\Debug\net6.0\hw8Sort.AssemblyInfoInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8Sort\obj\Debug\net6.0\hw8Sort.AssemblyInfo.cs
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8Sort\obj\Debug\net6.0\hw8Sort.csproj.CoreCompileInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8Sort\obj\Debug\net6.0\hw8Sort.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8Sort\obj\Debug\net6.0\refint\hw8Sort.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8Sort\obj\Debug\net6.0\hw8Sort.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8Sort\obj\Debug\net6.0\hw8Sort.genruntimeconfig.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw8Sort\obj\Debug\net6.0\ref\hw8Sort.dll
