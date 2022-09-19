@@ -1,0 +1,15 @@
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturNum\bin\Debug\net6.0\hw9NaturNum.exe
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturNum\bin\Debug\net6.0\hw9NaturNum.deps.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturNum\bin\Debug\net6.0\hw9NaturNum.runtimeconfig.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturNum\bin\Debug\net6.0\hw9NaturNum.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturNum\bin\Debug\net6.0\hw9NaturNum.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturNum\obj\Debug\net6.0\hw9NaturNum.csproj.AssemblyReference.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturNum\obj\Debug\net6.0\hw9NaturNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturNum\obj\Debug\net6.0\hw9NaturNum.AssemblyInfoInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturNum\obj\Debug\net6.0\hw9NaturNum.AssemblyInfo.cs
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturNum\obj\Debug\net6.0\hw9NaturNum.csproj.CoreCompileInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturNum\obj\Debug\net6.0\hw9NaturNum.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturNum\obj\Debug\net6.0\refint\hw9NaturNum.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturNum\obj\Debug\net6.0\hw9NaturNum.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturNum\obj\Debug\net6.0\hw9NaturNum.genruntimeconfig.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturNum\obj\Debug\net6.0\ref\hw9NaturNum.dll
