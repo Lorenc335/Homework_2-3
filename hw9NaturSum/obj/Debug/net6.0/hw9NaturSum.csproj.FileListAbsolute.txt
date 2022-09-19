@@ -1,0 +1,15 @@
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturSum\obj\Debug\net6.0\hw9NaturSum.csproj.AssemblyReference.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturSum\obj\Debug\net6.0\hw9NaturSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturSum\obj\Debug\net6.0\hw9NaturSum.AssemblyInfoInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturSum\obj\Debug\net6.0\hw9NaturSum.AssemblyInfo.cs
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturSum\obj\Debug\net6.0\hw9NaturSum.csproj.CoreCompileInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturSum\bin\Debug\net6.0\hw9NaturSum.exe
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturSum\bin\Debug\net6.0\hw9NaturSum.deps.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturSum\bin\Debug\net6.0\hw9NaturSum.runtimeconfig.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturSum\bin\Debug\net6.0\hw9NaturSum.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturSum\bin\Debug\net6.0\hw9NaturSum.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturSum\obj\Debug\net6.0\hw9NaturSum.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturSum\obj\Debug\net6.0\refint\hw9NaturSum.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturSum\obj\Debug\net6.0\hw9NaturSum.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturSum\obj\Debug\net6.0\hw9NaturSum.genruntimeconfig.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9NaturSum\obj\Debug\net6.0\ref\hw9NaturSum.dll
