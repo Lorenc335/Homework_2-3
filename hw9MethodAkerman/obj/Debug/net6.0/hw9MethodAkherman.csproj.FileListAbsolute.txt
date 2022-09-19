@@ -1,0 +1,15 @@
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9MethodAkherman\obj\Debug\net6.0\hw9MethodAkherman.csproj.AssemblyReference.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9MethodAkherman\obj\Debug\net6.0\hw9MethodAkherman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9MethodAkherman\obj\Debug\net6.0\hw9MethodAkherman.AssemblyInfoInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9MethodAkherman\obj\Debug\net6.0\hw9MethodAkherman.AssemblyInfo.cs
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9MethodAkherman\obj\Debug\net6.0\hw9MethodAkherman.csproj.CoreCompileInputs.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9MethodAkherman\bin\Debug\net6.0\hw9MethodAkherman.exe
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9MethodAkherman\bin\Debug\net6.0\hw9MethodAkherman.deps.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9MethodAkherman\bin\Debug\net6.0\hw9MethodAkherman.runtimeconfig.json
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9MethodAkherman\bin\Debug\net6.0\hw9MethodAkherman.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9MethodAkherman\bin\Debug\net6.0\hw9MethodAkherman.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9MethodAkherman\obj\Debug\net6.0\hw9MethodAkherman.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9MethodAkherman\obj\Debug\net6.0\refint\hw9MethodAkherman.dll
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9MethodAkherman\obj\Debug\net6.0\hw9MethodAkherman.pdb
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9MethodAkherman\obj\Debug\net6.0\hw9MethodAkherman.genruntimeconfig.cache
+C:\Users\HONOR\Desktop\projectmanagerLearning\Sec\hw9MethodAkherman\obj\Debug\net6.0\ref\hw9MethodAkherman.dll
